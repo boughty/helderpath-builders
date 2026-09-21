@@ -7,3 +7,4 @@ private/
 onepager/content*.json
 !onepager/content.sample.json
 !onepager/content.sample-classic.json
+.DS_Store
