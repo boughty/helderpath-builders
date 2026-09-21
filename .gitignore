@@ -1,0 +1,9 @@
+node_modules/
+out/
+*.pptx
+*.pdf
+.env
+private/
+onepager/content*.json
+!onepager/content.sample.json
+!onepager/content.sample-classic.json

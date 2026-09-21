@@ -1,0 +1,22 @@
+{
+  "title": "Sample one-pager, pitfalls layout (placeholder content)",
+  "style": "fill",
+  "footer": "www.example.com",
+  "blocks": [
+    { "type": "eyebrow", "text": "For [audience label]" },
+    { "type": "headline", "text": "A headline that says what this page is for." },
+    { "type": "intro", "text": "Placeholder introduction. Two or three sentences that set up the problem and the promise go here. Replace this with real copy in a private content file that is never committed to this repository." },
+    { "type": "cards", "label": "Section label", "columns": 2, "items": [
+      { "tag": "Stage name", "title": "First card heading", "body": "One placeholder sentence on how the problem happens." },
+      { "tag": "Stage name", "title": "Second card heading", "body": "One placeholder sentence on how the problem happens." },
+      { "tag": "Stage name", "title": "Third card heading", "body": "One placeholder sentence on how the problem happens." },
+      { "tag": "Stage name", "title": "Fourth card heading", "body": "One placeholder sentence on how the problem happens." }
+    ] },
+    { "type": "cards", "label": "Options", "columns": 2, "items": [
+      { "title": "Option one", "subtitle": "Format \u00b7 duration", "body": "A placeholder sentence or two describing the option and what the reader gets." },
+      { "title": "Option two", "subtitle": "Format \u00b7 duration", "body": "A placeholder sentence or two describing the option and what the reader gets." }
+    ] },
+    { "type": "paragraph", "text": "Placeholder credibility or note line. Keep it to one or two lines." },
+    { "type": "cta", "heading": "Call to action goes here", "text": "contact@example.com", "link": "mailto:contact@example.com" }
+  ]
+}

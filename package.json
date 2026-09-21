@@ -1,0 +1,13 @@
+{
+  "name": "helderpath-builders",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Layout-only builders for Helderpath collateral. No real content lives here.",
+  "scripts": {
+    "sample": "node onepager/build.js onepager/content.sample.json out/sample.pptx --report",
+    "check-public": "node tools/check-public.js"
+  },
+  "dependencies": {
+    "pptxgenjs": "^4.0.1"
+  }
+}
